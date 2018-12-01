@@ -1,5 +1,5 @@
 token=NTE3NzUwODcyNTQ1OTUxNzQ0.DuGwvA.ql7fIWDZm-YpU_Oiwdp7Oi6PYd4
-owner=502762488274878465 
+owner=429640585683664897
 prefix=b
 game=!              bandr:tophat:
 stayinchannel=true
